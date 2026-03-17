@@ -1,4 +1,4 @@
-# Dataset LPBF Surface Images
+# Dataset LPBF Thin Walls
 This dataset contains ... 
 
 ## References
