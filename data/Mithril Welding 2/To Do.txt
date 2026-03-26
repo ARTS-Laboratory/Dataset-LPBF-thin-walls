@@ -1,0 +1,7 @@
+ask Dr Yuan about laser error message
+
+develop processing code for current data (layer 4-7)
+
+ask Thomas about potentially refacing build plate
+
+if we figure out solution (avoid error), schedule re-test with Can on Wednesday April 8th at 1pm
