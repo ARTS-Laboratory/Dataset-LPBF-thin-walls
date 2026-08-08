@@ -1,5 +1,5 @@
 # Dataset LPBF Thin Walls
-This dataset contains LPBF thin wall project layerwise images.
+This dataset contains LPBF thin wall project layerwise images and other project files
 
 ## References
 
